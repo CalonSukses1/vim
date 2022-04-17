@@ -92,7 +92,7 @@ nmap <silent> <buffer> <leader>jN <Plug>(JavaComplete-Generate-ClassInFile)
 let g:JavaComplete_EnableDefaultMappings = 0
 
 autocmd vimenter * NERDTree
-colorscheme gruvbox
+colorscheme nord
 let g:indentLine_color_term = 239
 let g:indentLine_char = '┆'
 let g:indentLine_char_list = ['|', '¦', '┆', '┊']
