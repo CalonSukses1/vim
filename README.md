@@ -1,7 +1,5 @@
 # vim
-<div align="center">
-<img src="https://h.top4top.io/p_2298k59uh0.jpg" align="center" style="width: 100%" />
-</div>
+
 
 • install Plug
 
